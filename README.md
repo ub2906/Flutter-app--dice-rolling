@@ -1,3 +1,2 @@
 # Flutter-app--dice-rolling
-
-this nklcsd'cs
+dice rolling app made with flutter 
